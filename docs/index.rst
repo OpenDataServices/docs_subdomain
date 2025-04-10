@@ -1,7 +1,12 @@
-Open Data Services Docs
-=======================
+Open Data Services Documentation
+================================
 
-We release most of our work as open source.
+
+We build in the open.
+
+Our tools and code are here to be used, adapted and improved.
+
+If something’s useful, use it. If something’s missing, add it. The more eyes, the better.
 
 
 

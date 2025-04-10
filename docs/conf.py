@@ -1,4 +1,6 @@
-project = "Open Data Services Docs"
+project = "Open Data Services Documentation"
+
+html_title = "Open Data Services Documentation"
 
 master_doc = "index"
 
